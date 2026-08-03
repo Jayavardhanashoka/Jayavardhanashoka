@@ -21,7 +21,7 @@ class Jayavardhan:
 
         self.stack = [
             "Python", "FastAPI", "Flask",
-            "SQLAlchemy", "SQLite", "Firebase",
+            "SQLAlchemy", "LangChain", "FAISS",
             "Arduino", "ESP32", "Docker"
         ]
 
@@ -46,9 +46,9 @@ class Jayavardhan:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Backend & APIs**
@@ -62,10 +62,16 @@ class Jayavardhan:
 **AI & LLM**
 
 ![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square&logo=lightning&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -81,6 +87,7 @@ class Jayavardhan:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -121,12 +128,13 @@ class Jayavardhan:
 
 <details>
   <summary>🏢 <strong>JB Portals</strong> — UI/UX, Testing & Backend Support Intern &nbsp;|&nbsp; Jan 2024 – Apr 2024 &nbsp;|&nbsp; Bengaluru, India</summary>
+  <br/>
 
-> `Python` `Flask` `FastAPI` `HTML` `CSS` `JavaScript` `RESTful APIs`
+  `Python` `Flask` `FastAPI` `HTML` `CSS` `JavaScript` `RESTful APIs`
 
-- Redesigned and optimized responsive web interfaces, improving page load performance and eliminating recurring form validation issues that blocked user onboarding.
-- Built and deployed RESTful API endpoints using Python (Flask/FastAPI), handling authentication and data submission for the company's client portal.
-- Contributed to UI/UX design decisions, performed functional testing, and identified bugs across the full-stack development lifecycle.
+  - Redesigned and optimized responsive web interfaces, improving page load performance and eliminating recurring form validation issues that blocked user onboarding.
+  - Built and deployed RESTful API endpoints using Python (Flask/FastAPI), handling authentication and data submission for the company's client portal.
+  - Contributed to UI/UX design decisions, performed functional testing, and identified bugs across the full-stack development lifecycle.
 
 </details>
 
@@ -137,9 +145,9 @@ class Jayavardhan:
 <div align="center">
 
 | Project | Stack | Highlights |
-|--------|-------|-----------|
-| [**TRINETRA**](https://github.com/Jayavardhanashoka) — Proactive LLM Security Framework | Python · FastAPI · Flask · Groq LLM · SQLite | Reduced false negatives by ~60% vs keyword filters; processes security checks in <200ms; presented at CMR HACKFEST 3.0 (36-hr national hackathon) |
-| [**RiseOfTheJaguar**](https://github.com/Jayavardhanashoka) — AI Prompt Management & Evaluation | Flask · SQLAlchemy · TextStat · TextBlob · JWT · SQLite | Reduced prompt iteration time by ~40%; A/B testing, readability & sentiment analytics; JWT-secured with RBAC |
+|---|---|---|
+| [**TRINETRA**](https://github.com/Jayavardhanashoka) — Proactive LLM Security Framework | Python · FastAPI · Flask · Groq LLM · SQLite | Reduced false negatives by ~60% vs. keyword filters; processes security checks in <200ms; presented at CMR HACKFEST 3.0 (36-hr national hackathon) |
+| [**CourtVerse AI**](https://github.com/Jayavardhanashoka) — Legal AI Assistant Platform | Python · FastAPI · MySQL · LangChain · FAISS · React · TypeScript | Full-stack legal RAG platform for case-law search and legacy-to-modern Indian criminal code comparison; modular FastAPI backend with auth, versioning, and vector indexing |
 | [**HillTech-Growers**](https://github.com/Jayavardhanashoka) — Smart Agriculture IoT Platform | Arduino · ESP32 · Python · Flask · FastAPI · Firebase · SQLite | Real-time IoT sensor pipeline; ML-based crop recommendation; live dashboards with threshold-based alerts |
 
 </div>
@@ -151,9 +159,10 @@ class Jayavardhan:
 <div align="center">
 
 | 🎖️ | Achievement | Details |
-|----|------------|---------|
+|---|---|---|
+| 🥇 | **Xythera CTF 2026** | 2nd Place, DSCE — competed with Team Zero |
 | 🥷 | **CMR HACKFEST 3.0** | Competed as Team Lead — 36-hour National Level Hackathon (AICTE IDEA Lab), Jan 2026. Presented TRINETRA LLM Security Framework against teams from across India. |
-| 💡 | **State-Level IDEATHON 2025** | Certificate of Appreciation — AICTE IDEA Lab, New Horizon College of Engineering. Recognised for innovation, problem-solving & team leadership (Team: Akatsuki). |
+| 💡 | **State-Level IDEATHON 2025** | Certificate of Appreciation — AICTE IDEA Lab, New Horizon College of Engineering. Recognised for innovation, problem-solving & team leadership. |
 | ☁️ | **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** | Oracle University — Valid until Sep 2027 |
 | 📊 | **Deep Dive into Python Libraries with Data Science** | GIGA SKILL Technologies — Feb 2025 |
 
@@ -166,7 +175,7 @@ class Jayavardhan:
 <div align="center">
 
 | Degree | Institution | Period | Score |
-|--------|-------------|--------|-------|
+|---|---|---|---|
 | B.E. – Computer Science & Business Systems *(Pursuing)* | Dayananda Sagar College of Engineering (DSCE), Bengaluru | Aug 2024 – Jul 2027 | — |
 | Diploma – Computer Science Engineering | Dayananda Sagar College of Engineering (DSCE), Bengaluru | Aug 2021 – May 2024 | 8.09 / 10 (Distinction) |
 
@@ -174,13 +183,14 @@ class Jayavardhan:
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Building
 
 ```
-🔐 LLM Security       →  Prompt injection, data poisoning, adversarial attacks
-⚙️  MLOps             →  Model serving, monitoring, CI/CD for ML pipelines
-☁️  OCI Advanced      →  Compute, networking, AI services on Oracle Cloud
-🧠 AI System Design   →  Production-grade LLM application architecture
+🔐 LLM Security          →  Prompt injection, data poisoning, adversarial attacks
+⚙️  MLOps                →  Model serving, monitoring, CI/CD for ML pipelines
+☁️  OCI Advanced         →  Compute, networking, AI services on Oracle Cloud
+🧠 AI System Design      →  Production-grade LLM application architecture
+🛰️  Crop Monitoring      →  React + Leaflet dashboard using satellite imagery (BAH 2026)
 ```
 
 ---
