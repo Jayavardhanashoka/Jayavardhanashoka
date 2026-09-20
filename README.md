@@ -25,7 +25,8 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=620&height=28&lines=Building+secure+AI+systems.+Engineering+for+impact.+Learning+every+day." width="100%" style="max-width: 620px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=620&height=28&lines=
+     Building+secure+AI+systems.+Engineering+for+impact.+Learning+every+day." width="100%" style="max-width: 620px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
