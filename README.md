@@ -1,216 +1,243 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jayavardhan%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Security%20%7C%20Backend%20Engineer%20%7C%20LLM%20Systems%20Builder&descAlignY=62&descSize=16" width="100%"/>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Security+%26+Backend+Engineer;LLM+Security+Framework+Builder;FastAPI+%7C+Python+%7C+IoT+Developer;Open+to+AI%2FML+%26+Backend+Roles" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class Jayavardhan:
-    def __init__(self):
-        self.name        = "Jayavardhan A"
-        self.location    = "Bengaluru, India"
-        self.degree      = "B.E. Computer Science & Business Systems (Pursuing)"
-        self.github      = "Jayavardhanashoka"
-        self.email       = "jayavardhanashoka@gmail.com"
-
-        self.stack = [
-            "Python", "FastAPI", "Flask",
-            "SQLAlchemy", "LangChain", "FAISS",
-            "Arduino", "ESP32", "Docker"
-        ]
-
-        self.currently_learning = [
-            "Advanced LLM Security",
-            "MLOps & Production AI Systems",
-            "Oracle Cloud Infrastructure"
-        ]
-
-        self.fun_fact = "I built a security framework that cuts false negatives by ~60%!"
-
-    def motto(self):
-        return "Build systems that are secure by design, not by accident."
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI & LLM**
-
-![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square&logo=lightning&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Cloud & DevOps**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**IoT & Databases**
-
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/Jayavardhanashoka">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayavardhanashoka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=680&height=42&lines=Hi+there!+I'm+Jayavardhan+A+%F0%9F%91%8B;Computer+Science+%26+Business+Systems+Engineer+%F0%9F%8E%93;Backend+%26+AI+Security+Builder+%F0%9F%92%BB;LLM+Security+%26+RAG+Systems+Innovator+%F0%9F%A4%96;Turning+ideas+into+scalable+real-world+systems+%E2%9A%A1" width="100%" style="max-width: 680px;" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/Jayavardhanashoka">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavardhanashoka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jayavardhan-ashoka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jayavardhanashoka&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavardhanashoka&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayavardhanashoka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-  <summary>🏢 <strong>JB Portals</strong> — UI/UX, Testing & Backend Support Intern &nbsp;|&nbsp; Jan 2024 – Apr 2024 &nbsp;|&nbsp; Bengaluru, India</summary>
-  <br/>
-
-  `Python` `Flask` `FastAPI` `HTML` `CSS` `JavaScript` `RESTful APIs`
-
-  - Redesigned and optimized responsive web interfaces, improving page load performance and eliminating recurring form validation issues that blocked user onboarding.
-  - Built and deployed RESTful API endpoints using Python (Flask/FastAPI), handling authentication and data submission for the company's client portal.
-  - Contributed to UI/UX design decisions, performed functional testing, and identified bugs across the full-stack development lifecycle.
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| [**TRINETRA**](https://github.com/Jayavardhanashoka) — Proactive LLM Security Framework | Python · FastAPI · Flask · Groq LLM · SQLite | Reduced false negatives by ~60% vs. keyword filters; processes security checks in <200ms; presented at CMR HACKFEST 3.0 (36-hr national hackathon) |
-| [**CourtVerse AI**](https://github.com/Jayavardhanashoka) — Legal AI Assistant Platform | Python · FastAPI · MySQL · LangChain · FAISS · React · TypeScript | Full-stack legal RAG platform for case-law search and legacy-to-modern Indian criminal code comparison; modular FastAPI backend with auth, versioning, and vector indexing |
-| [**HillTech-Growers**](https://github.com/Jayavardhanashoka) — Smart Agriculture IoT Platform | Arduino · ESP32 · Python · Flask · FastAPI · Firebase · SQLite | Real-time IoT sensor pipeline; ML-based crop recommendation; live dashboards with threshold-based alerts |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🎖️ | Achievement | Details |
-|---|---|---|
-| 🥇 | **Xythera CTF 2026** | 2nd Place, DSCE — competed with Team Zero |
-| 🥷 | **CMR HACKFEST 3.0** | Competed as Team Lead — 36-hour National Level Hackathon (AICTE IDEA Lab), Jan 2026. Presented TRINETRA LLM Security Framework against teams from across India. |
-| 💡 | **State-Level IDEATHON 2025** | Certificate of Appreciation — AICTE IDEA Lab, New Horizon College of Engineering. Recognised for innovation, problem-solving & team leadership. |
-| ☁️ | **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** | Oracle University — Valid until Sep 2027 |
-| 📊 | **Deep Dive into Python Libraries with Data Science** | GIGA SKILL Technologies — Feb 2025 |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Period | Score |
-|---|---|---|---|
-| B.E. – Computer Science & Business Systems *(Pursuing)* | Dayananda Sagar College of Engineering (DSCE), Bengaluru | Aug 2024 – Jul 2027 | — |
-| Diploma – Computer Science Engineering | Dayananda Sagar College of Engineering (DSCE), Bengaluru | Aug 2021 – May 2024 | 8.09 / 10 (Distinction) |
-
-</div>
-
----
-
-## 📚 Currently Learning & Building
-
-```
-🔐 LLM Security          →  Prompt injection, data poisoning, adversarial attacks
-⚙️  MLOps                →  Model serving, monitoring, CI/CD for ML pipelines
-☁️  OCI Advanced         →  Compute, networking, AI services on Oracle Cloud
-🧠 AI System Design      →  Production-grade LLM application architecture
-🛰️  Crop Monitoring      →  React + Leaflet dashboard using satellite imagery (BAH 2026)
-```
-
----
-
-<div align="center">
-  <a href="https://linkedin.com/in/jayavardhan-ashoka">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/Jayavardhanashoka" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Jayavardhanashoka">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="mailto:jayavardhanashoka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Jayavardhanashoka&style=flat-square&color=70a5fd&label=Profile+Views"/>
-</div>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jayavardhanashoka&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=620&height=28&lines=Building+secure+AI+systems.+Engineering+for+impact.+Learning+every+day." width="100%" style="max-width: 620px;" alt="Typing Quote" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+</p>
+
+<p align="center">
+  Hey! I'm <b>Jayavardhan A</b>, a passionate <b>Computer Science &amp; Business Systems student &amp; developer</b> based in Bengaluru, India.<br />
+  I specialize in building LLM security frameworks, scalable REST APIs, and intelligent full-stack applications using Python and FastAPI. My focus areas include AI/ML, backend engineering, cybersecurity, and IoT — turning practical ideas into production-ready systems.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science_%26_Business_Systems-DC2626?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Focus-AI_Security_%26_Backend_Engineering-111111?style=flat-square" alt="Focus" />
+</p>
+
+<p align="center">
+  <b>Let's Discuss:</b> Python, FastAPI, LangChain, LLM Security, RAG Systems, REST APIs &amp; System Architecture.<br />
+  <b>Philosophy:</b> <i>"I love turning practical real-world problems into scalable, intelligent software!"</i>
+</p>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🚀 Flagship Project</h4>
+      <p><a href="https://github.com/Jayavardhanashoka" target="_blank"><b>TRINETRA</b></a><br /><sub>Proactive LLM Security Framework</sub></p>
+    </td>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>📚 Active Deep Dives</h4>
+      <p><b>AI Security &amp; RAG Systems</b><br /><sub>FastAPI, LangChain &amp; System Design</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🎓 Education</h4>
+      <p><b>DSCE, Bengaluru</b><br /><sub>B.E. CSBS — 3rd Year / Pre-Final</sub></p>
+    </td>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🤝 Collaboration</h4>
+      <p><b>AI, Backend &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🌟 Featured Project Spotlight</h2>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td align="center" style="padding: 22px;">
+      <h3>🛡️ TRINETRA — Proactive LLM Security Framework</h3>
+      <p><i>An AI security framework for detecting prompt injection and data poisoning attacks using intent-based semantic analysis, with a SQLite-backed security audit trail.</i></p>
+      <p><b>Stack:</b> Python · FastAPI · Flask · Groq LLM · SQLite</p>
+      <br />
+      <p>
+        <a href="https://github.com/Jayavardhanashoka" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 22px;">
+      <h3>⚖️ CourtVerse AI — Legal AI Assistant Platform</h3>
+      <p><i>Full-stack Legal AI platform using Retrieval-Augmented Generation (RAG) for legal document Q&amp;A, semantic case-law search, and comparison of Indian criminal codes.</i></p>
+      <p><b>Stack:</b> Python · FastAPI · MySQL · LangChain · FAISS · React · TypeScript</p>
+      <br />
+      <p>
+        <a href="https://github.com/Jayavardhanashoka" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 22px;">
+      <h3>🌾 HillTech-Growers — Smart Agriculture Platform</h3>
+      <p><i>IoT-based agriculture platform collecting real-time soil moisture, temperature, and humidity data, with automated irrigation alerts and ML-based crop recommendations.</i></p>
+      <p><b>Stack:</b> Arduino · ESP32 · Python · Flask · FastAPI · SQLite · Firebase</p>
+      <br />
+      <p>
+        <a href="https://github.com/Jayavardhanashoka" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
+
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css&theme=dark" width="100%" style="max-width: 380px;" alt="Languages" />
+  </a>
+</p>
+
+<p align="center"><b>Frontend Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,ts&theme=dark" width="100%" style="max-width: 320px;" alt="Frontend" />
+  </a>
+</p>
+
+<p align="center"><b>Backend, APIs &amp; Frameworks</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" width="100%" style="max-width: 140px;" alt="Backend" />
+  </a>
+</p>
+
+<p align="center"><b>Databases &amp; Cloud</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=dark" width="100%" style="max-width: 200px;" alt="Databases" />
+  </a>
+</p>
+
+<p align="center"><b>DevOps, AI Tools &amp; Hardware</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,arduino,vscode&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=for-the-badge&logo=chainlink&logoColor=EF4444" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Groq_API-0a0a0a?style=for-the-badge&logo=groq&logoColor=EF4444" alt="Groq API" />
+  <img src="https://img.shields.io/badge/Google_Gemini-0a0a0a?style=for-the-badge&logo=google&logoColor=EF4444" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/FAISS-0a0a0a?style=for-the-badge&logo=meta&logoColor=EF4444" alt="FAISS" />
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=EF4444" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OCI-0a0a0a?style=for-the-badge&logo=oracle&logoColor=EF4444" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/JWT_Auth-0a0a0a?style=for-the-badge&logo=jsonwebtokens&logoColor=EF4444" alt="JWT" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jayavardhanashoka&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jayavardhanashoka&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayavardhanashoka&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss AI security, backend systems, open-source collaboration, or just say hello — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="https://linkedin.com/in/jayavardhan-ashoka" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+      </a>
+      <br />
+      <sub><b>Professional Network</b></sub>
+    </td>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="https://github.com/Jayavardhanashoka" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/GitHub-Jayavardhanashoka-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+      </a>
+      <br />
+      <sub><b>Projects &amp; Code</b></sub>
+    </td>
+    <td align="center" width="220" style="padding: 16px;">
+      <a href="mailto:jayavardhanashoka@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+      </a>
+      <br />
+      <sub><b>Direct Collaboration</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Career_Goal-AI_%2F_ML_%7C_AI_Security_%7C_Backend_Engineering-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Career Goal" />
+</p>
+
+<p align="center">
+  <i>"Building scalable real-world systems with LLMs, APIs, and cybersecurity — one commit at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EF4444&height=100&section=footer&reversal=false" width="100%" alt="Footer Wave" />
+</p>
