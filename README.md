@@ -9,7 +9,7 @@
         <p><strong>AI SECURITY · BACKEND ENGINEERING</strong></p>
         <p>Computer Science &amp; Business Systems undergraduate at DSCE, Bengaluru · 2027</p>
         <p>
-          <a href="mailto:jayavardhanashoka@gmail.com"><img src="https://img.shields.io/badge/Email-E62429?style=forx-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+          <a href="mailto:jayavardhanashoka@gmail.com"><img src="https://img.shields.io/badge/Email-E62429?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
           <a href="https://linkedin.com/in/jayavardhan-ashoka"><img src="https://img.shields.io/badge/LinkedIn-2457D6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
           <a href="https://github.com/Jayavardhanashoka"><img src="https://img.shields.io/badge/GitHub-111318?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
         </p>
@@ -18,7 +18,9 @@
   </table>
 </div>
 
-<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" /></p>
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" />
+</p>
 
 ## 👋 About Me
 
@@ -44,7 +46,9 @@ My projects range from prompt-injection detection and prompt evaluation to IoT s
 | **Cloud & Tools** | ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud-E62429?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2457D6?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-E62429?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-2457D6?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-E62429?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-2457D6?style=flat-square&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-E62429?style=flat-square&logo=visualstudiocode&logoColor=white) |
 | **Embedded / IoT** | ![Arduino](https://img.shields.io/badge/Arduino-2457D6?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E62429?style=flat-square&logo=espressif&logoColor=white) |
 
-<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" /></p>
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" />
+</p>
 
 ## 🚀 Flagship Projects
 
@@ -78,7 +82,9 @@ My projects range from prompt-injection detection and prompt evaluation to IoT s
   <a href="https://github.com/devikacv001/HillTech-Growers">View repository</a>
 </details>
 
-<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" /></p>
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" />
+</p>
 
 ## 🏆 Achievements &amp; Certifications
 
@@ -111,7 +117,9 @@ My projects range from prompt-injection detection and prompt evaluation to IoT s
 
 I’m interested in contributing to projects around secure AI, Python APIs, and developer tooling. I’m open to collaborating on focused issues, testing, and documentation. [Browse my repositories](https://github.com/Jayavardhanashoka?tab=repositories).
 
-<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" /></p>
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" />
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -128,7 +136,9 @@ I’m interested in contributing to projects around secure AI, Python APIs, and 
 
 I share progress through personal projects, hackathons, and work in backend engineering and AI security.
 
-<p align="center"><img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" /></p>
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt="Red and blue web line" />
+</p>
 
 ## 📫 Contact
 
