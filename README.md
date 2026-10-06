@@ -9,7 +9,7 @@
         <p><strong>AI SECURITY · BACKEND ENGINEERING</strong></p>
         <p>Computer Science &amp; Business Systems undergraduate at DSCE, Bengaluru · 2027</p>
         <p>
-          <a href="mailto:jayavardhanashoka@gmail.com"><img src="https://img.shields.io/badge/Email-E62429?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+          <a href="mailto:jayavardhanashoka@gmail.com"><img src="https://img.shields.io/badge/Email-E62429?style=forx-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
           <a href="https://linkedin.com/in/jayavardhan-ashoka"><img src="https://img.shields.io/badge/LinkedIn-2457D6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
           <a href="https://github.com/Jayavardhanashoka"><img src="https://img.shields.io/badge/GitHub-111318?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
         </p>
@@ -116,7 +116,7 @@ I’m interested in contributing to projects around secure AI, Python APIs, and 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayavardhanashoka&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=E62429&amp;icon_color=2F6BFF&amp;text_color=8B949E&amp;bg_color=00000000" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayavardhanashoka&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=E62429&amp;icon_color=2457D6&amp;text_color=8B949E&amp;bg_color=00000000" alt="GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavardhanashoka&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=E62429&amp;text_color=8B949E&amp;bg_color=00000000" alt="Most used languages" />
 </div>
 
