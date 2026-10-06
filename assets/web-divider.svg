@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="36" viewBox="0 0 900 36" role="img" aria-label="Red and blue web line">
+  <path d="M0 18 C135 18 180 8 300 14 S410 22 450 18" fill="none" stroke="#E62429" stroke-opacity="0.9" stroke-width="2.5"/>
+  <path d="M450 18 C520 15 570 27 650 18 S790 11 900 18" fill="none" stroke="#2F6BFF" stroke-opacity="0.9" stroke-width="2.5"/>
+  <path d="M170 18 Q185 10 200 18 Q215 26 230 18 M670 18 Q685 10 700 18 Q715 26 730 18" fill="none" stroke="#68738A" stroke-opacity="0.75" stroke-width="1.2"/>
+  <circle cx="450" cy="18" r="3.2" fill="#F4F6F8" stroke="#B23B79" stroke-width="2"/>
+  <circle cx="300" cy="14" r="2.5" fill="#E62429"/>
+  <circle cx="650" cy="18" r="2.5" fill="#2F6BFF"/>
+</svg>
